@@ -1,0 +1,7 @@
+{
+  "name": "locApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
